@@ -1,6 +1,5 @@
 <section>
-  <h1 align="left">Hi, I’m Natasha Szmagalski Koroll</h1>
-  <img align="right" width="300px" src="https://i.pinimg.com/736x/4d/ba/8b/4dba8bee17185d258a005fd5f4b3c5ad.jpg" alt="natasha-profile" border="0">
+<h1 align="center"><b>Hi , I'm Natasha Szmagalski Koroll </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>  <img align="right" width="300px" src="https://i.pinimg.com/originals/4b/ae/e9/4baee94ad8634680ebd9cbf372f9888e.gif" alt="natasha-profile" border="0">
   <p align="left">
     I am from Argentina, I am passionate about fullstack development and I am currently a freelancer, working on a project for <strong>Frio Concordia</strong>. 
     Learning and exploring new technologies is one of my main interests. Thanks for visiting my profile! 😊
